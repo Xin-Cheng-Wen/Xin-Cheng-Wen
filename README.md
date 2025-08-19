@@ -1,6 +1,4 @@
 ## Hi there 👋
-<!--
-**Xin-Cheng-Wen/Xin-Cheng-Wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xin-Cheng-Wen&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 <img align="right" src="https://komarev.com/ghpvc/?username=Xin-Cheng-Wen" alt="Xin-Cheng-Wen" />
