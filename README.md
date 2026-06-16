@@ -14,7 +14,14 @@ Shenzhen, China
 
 ## 🐾 Academic Background
 
-**<font color='red'>[Highlight]</font> I'm currently a third-year Ph.D. student in HITSZ**
+**<font color='red'>[Highlight]</font> I'm currently a final-year Ph.D. student in HITSZ**
+
+I am currently a research intern on the **post-training team at MINIMAX**, selected into the Top Talent Program, where I lead efforts on code and test-case generation for the MINIMAX M3-series Model.
+
+I am on the **2027 job market**, actively seeking full-time roles on foundation / base-model teams working on **code LLMs / RL** — please feel free to reach out if our interests align.
+
+If you are interested in any aspect of me, I would love to chat and collaborate. Please email me at xiamenwxc**[@]**foxmail.com.
+
 
 - **Sep 2022 - June 2027 (*now*):** <br>Successive postgraduate and doctoral programs of study (**硕博连读**) of Computer Science, Harbin Institute of Technology (Shenzhen), Shenzhen, China
 - **June 2023 - August 2023:** <br>Visting student, Chinese University of Hong Kong, Hong Kong, China  
