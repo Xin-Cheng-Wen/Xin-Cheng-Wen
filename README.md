@@ -20,7 +20,7 @@ I am currently a research intern on the **post-training team at MINIMAX**, selec
 
 I am on the **2027 job market**, actively seeking full-time roles on foundation / base-model teams working on **code LLMs / RL** — please feel free to reach out if our interests align.
 
-If you are interested in any aspect of me, I would love to chat and collaborate. Please email me at xiamenwxc**[@]**foxmail.com.
+If you are interested in any aspect of me, I would love to chat and collaborate. Please email me at xiamenwxc[AT]foxmail.com.
 
 
 - **Sep 2022 - June 2027 (*now*):** <br>Successive postgraduate and doctoral programs of study (**硕博连读**) of Computer Science, Harbin Institute of Technology (Shenzhen), Shenzhen, China
